@@ -1,0 +1,4 @@
+Console log test
+File log test
+File log test
+File log test
