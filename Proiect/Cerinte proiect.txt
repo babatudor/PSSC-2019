@@ -1,0 +1,39 @@
+Enuntul pentru proiectul din a doua parte a semenstrului este urmatorul:
+- fiecare student trebuie sa identifice un anumit domeniu pentru care sa realizeze o aplicatie 
+care va rezolva o problema specifica din acel domeniu, atentie cerintele nu trebuie sa fie foarte 
+stufoase dar trebuie sa permita dezvoltarea unui sistem software format din cel putin doua servicii
+
+- fiecare student trebuie sa creeze un folder denumit "NUME_PRENUME" si in el sa aiba un folder "Proiect" 
+in care vor fi salvate toate materialele legate de proiect
+
+- pe GIT fiecare student trebuie sa puna un fisier text in care sa descrie domeniul si 
+functionalitatile sistemului software implementat
+
+- fiecare student trebuie sa creeze trei diagrame C4: una pentru a prezenta contextul, 
+una pentru a prezenta containerele care formeaza sistemul 
+si a treia care sa descrie componentele sistemului
+
+Notare:
+- realizarea unui model DDD 2 puncte
+- comunicare prin cozi intre serviciile sistemului 1 punct
+- implementare model arhitectural Model-View-Controller 1 punct
+- realizate de teste unitare pentru model-ul DDD si controlerele MVC 1 punct
+- realizarea unui sistem software care nu respecta nici unul din puctele de mai sus 
+se va nota cu 5 dar trebuie sa existe cele 3 diagrame
+
+Odata cu predarea proiectului fiecare student trebuie sa raspuna si la doua intrebari din materia predata la curs. 
+Predarea proiectului se va face in saptamana 14 in timpul orelor de laborator conform orarului. 
+Proiectul poate fi predat si mai repede, dar trebuie sa fim anuntati cu o saptamana inainte. 
+Pentru predarea proiectului inainte de saptamana 14 se va acorda un bonus de 1 punct. 
+Pe toata perioada proiectului este obligatorie prezenta la minim 3 sedinte de laborator in care va trebui sa aratati progresul 
+realizat si sa clarificati orice nelamuriri aveti. 
+
+ATENTIE: daca un proiect este copiat disciplina nu va putea fi promovata.
+
+Recomandare:
+1) nota 5: sistem software cu doua servicii + C4 model
+2) nota 6: MVC
+3) nota 7: teste unitare
+4) nota 8: comunicare intre servicii prin cozi
+5) nota 9-10: DDD : layered architecture, services, repositories, entities, value objects, unit tests
+6) bonus: 2 intrebari din curs + activitatea la laborator
